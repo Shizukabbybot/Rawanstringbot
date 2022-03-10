@@ -28,7 +28,7 @@ You can use me to generate pyrogram and telethon string session. Use the below b
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("👨‍💻 Repo 👨‍💻", url="https://github.com/LEGEND-AI/STRING-GENERATE")],
+        [InlineKeyboardButton("👨‍💻 Repo 👨‍💻", url="https://github.com/Shizukabbybot/Rawanstringbot")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton(" About", callback_data="about")
